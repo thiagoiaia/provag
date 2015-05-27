@@ -9,4 +9,4 @@ Explicar o funcionamento do sistema de navegação do veículo.
 - Um micro receptor de GPS - Modelo ME-1000RW
 
 ###Bibliografia
-GONÇALVEZ, J. A.; MADEIRA, S.; SOUZA, J. J. Topografia: Conceitos e Aplicações. 3° Edição. Lisboa: Lidel, 2012.
+GONÇALVEZ, J. A.; MADEIRA, S.; SOUZA, J. J. **Topografia:** Conceitos e Aplicações. 3. ed. Lisboa: Lidel, 2012.
